@@ -46,13 +46,16 @@
 		<key name="tizen.org/feature/network.bluetooth.hid" type="bool">true</key>
 		<key name="tizen.org/feature/network.bluetooth.le" type="bool">true</key>
 		<key name="tizen.org/feature/network.bluetooth.opp" type="bool">true</key>
-		<key name="tizen.org/feature/network.nfc" type="bool">true</key>
-		<key name="tizen.org/feature/network.nfc.card_emulation" type="bool">true</key>
+		<key name="tizen.org/feature/network.nfc" type="bool">false</key>
+		<key name="tizen.org/feature/network.nfc.tag" type="bool">false</key>
+		<key name="tizen.org/feature/network.nfc.p2p" type="bool">false</key>
+		<key name="tizen.org/feature/network.nfc.card_emulation" type="bool">false</key>
+		<key name="tizen.org/feature/network.nfc.card_emulation.hce" type="bool">false</key>
 		<key name="tizen.org/feature/network.nfc.reserved_push" type="bool">false</key>
 		<key name="tizen.org/feature/network.push" type="bool">true</key>
-		<key name="tizen.org/feature/network.secure_element" type="bool">true</key>
+		<key name="tizen.org/feature/network.secure_element" type="bool">false</key>
 		<key name="tizen.org/feature/network.secure_element.ese" type="bool">false</key>
-		<key name="tizen.org/feature/network.secure_element.uicc" type="bool">true</key>
+		<key name="tizen.org/feature/network.secure_element.uicc" type="bool">false</key>
 		<key name="tizen.org/feature/network.telephony" type="bool">true</key>
 		<key name="tizen.org/feature/network.telephony.sms.cbs" type="bool">true</key>
 		<key name="tizen.org/feature/network.telephony.sms" type="bool">true</key>
