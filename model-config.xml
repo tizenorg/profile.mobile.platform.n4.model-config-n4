@@ -56,19 +56,19 @@
 		<key name="tizen.org/feature/network.secure_element" type="bool">false</key>
 		<key name="tizen.org/feature/network.secure_element.ese" type="bool">false</key>
 		<key name="tizen.org/feature/network.secure_element.uicc" type="bool">false</key>
-		<key name="tizen.org/feature/network.telephony" type="bool">true</key>
-		<key name="tizen.org/feature/network.telephony.sms.cbs" type="bool">true</key>
-		<key name="tizen.org/feature/network.telephony.sms" type="bool">true</key>
-		<key name="tizen.org/feature/network.telephony.mms" type="bool">true</key>
+		<key name="tizen.org/feature/network.telephony" type="bool">false</key>
+		<key name="tizen.org/feature/network.telephony.sms.cbs" type="bool">false</key>
+		<key name="tizen.org/feature/network.telephony.sms" type="bool">false</key>
+		<key name="tizen.org/feature/network.telephony.mms" type="bool">false</key>
 		<key name="tizen.org/feature/network.telephony.service.cdma" type="bool">false</key>
-		<key name="tizen.org/feature/network.telephony.service.edge" type="bool">true</key>
-		<key name="tizen.org/feature/network.telephony.service.gprs" type="bool">true</key>
-		<key name="tizen.org/feature/network.telephony.service.gsm" type="bool">true</key>
-		<key name="tizen.org/feature/network.telephony.service.hsdpa" type="bool">true</key>
-		<key name="tizen.org/feature/network.telephony.service.hspa" type="bool">true</key>
-		<key name="tizen.org/feature/network.telephony.service.hsupa" type="bool">true</key>
+		<key name="tizen.org/feature/network.telephony.service.edge" type="bool">false</key>
+		<key name="tizen.org/feature/network.telephony.service.gprs" type="bool">false</key>
+		<key name="tizen.org/feature/network.telephony.service.gsm" type="bool">false</key>
+		<key name="tizen.org/feature/network.telephony.service.hsdpa" type="bool">false</key>
+		<key name="tizen.org/feature/network.telephony.service.hspa" type="bool">false</key>
+		<key name="tizen.org/feature/network.telephony.service.hsupa" type="bool">false</key>
 		<key name="tizen.org/feature/network.telephony.service.lte" type="bool">false</key>
-		<key name="tizen.org/feature/network.telephony.service.umts" type="bool">true</key>
+		<key name="tizen.org/feature/network.telephony.service.umts" type="bool">false</key>
 		<key name="tizen.org/feature/network.tethering" type="bool">true</key>
 		<key name="tizen.org/feature/network.tethering.bluetooth" type="bool">true</key>
 		<key name="tizen.org/feature/network.tethering.usb" type="bool">true</key>
@@ -120,29 +120,29 @@
 		<key name="tizen.org/feature/screen.size.normal.720.1280" type="bool">true</key>
 		<key name="tizen.org/feature/screen.size.normal.1080.1920" type="bool">false</key>
 		<key name="tizen.org/feature/screen.width" type="int">720</key>
-		<key name="tizen.org/feature/sensor.accelerometer" type="bool">true</key>
+		<key name="tizen.org/feature/sensor.accelerometer" type="bool">false</key>
 		<key name="tizen.org/feature/sensor.accelerometer.wakeup" type="bool">false</key>
 		<key name="tizen.org/feature/sensor.activity_recognition" type="bool">false</key>
-		<key name="tizen.org/feature/sensor.barometer" type="bool">true</key>
+		<key name="tizen.org/feature/sensor.barometer" type="bool">false</key>
 		<key name="tizen.org/feature/sensor.barometer.wakeup" type="bool">false</key>
 		<key name="tizen.org/feature/sensor.bio" type="bool">false</key>
 		<key name="tizen.org/feature/sensor.gesture_recognition" type="bool">false</key>
-		<key name="tizen.org/feature/sensor.gravity" type="bool">true</key>
-		<key name="tizen.org/feature/sensor.gyroscope" type="bool">true</key>
+		<key name="tizen.org/feature/sensor.gravity" type="bool">false</key>
+		<key name="tizen.org/feature/sensor.gyroscope" type="bool">false</key>
 		<key name="tizen.org/feature/sensor.gyroscope.wakeup" type="bool">false</key>
 		<key name="tizen.org/feature/sensor.heart_rate_monitor" type="bool">false</key>
 		<key name="tizen.org/feature/sensor.humidity" type="bool">false</key>
-		<key name="tizen.org/feature/sensor.linear_acceleration" type="bool">true</key>
-		<key name="tizen.org/feature/sensor.magnetometer" type="bool">true</key>
+		<key name="tizen.org/feature/sensor.linear_acceleration" type="bool">false</key>
+		<key name="tizen.org/feature/sensor.magnetometer" type="bool">false</key>
 		<key name="tizen.org/feature/sensor.magnetometer.wakeup" type="bool">false</key>
 		<key name="tizen.org/feature/sensor.pedometer" type="bool">false</key>
-		<key name="tizen.org/feature/sensor.photometer" type="bool">true</key>
+		<key name="tizen.org/feature/sensor.photometer" type="bool">false</key>
 		<key name="tizen.org/feature/sensor.photometer.wakeup" type="bool">false</key>
-		<key name="tizen.org/feature/sensor.proximity" type="bool">true</key>
+		<key name="tizen.org/feature/sensor.proximity" type="bool">false</key>
 		<key name="tizen.org/feature/sensor.proximity.wakeup" type="bool">false</key>
-		<key name="tizen.org/feature/sensor.rotation_vector" type="bool">true</key>
+		<key name="tizen.org/feature/sensor.rotation_vector" type="bool">false</key>
 		<key name="tizen.org/feature/sensor.temperature" type="bool">false</key>
-		<key name="tizen.org/feature/sensor.tiltmeter" type="bool">true</key>
+		<key name="tizen.org/feature/sensor.tiltmeter" type="bool">false</key>
 		<key name="tizen.org/feature/sensor.tiltmeter.wakeup" type="bool">false</key>
 		<key name="tizen.org/feature/sensor.ultraviolet" type="bool">false</key>
 		<key name="tizen.org/feature/sensor.wrist_up" type="bool">false</key>
