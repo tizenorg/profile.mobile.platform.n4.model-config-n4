@@ -109,8 +109,8 @@
 		<key name="tizen.org/feature/screen.bpp" type="int">32</key>
 		<key name="tizen.org/feature/screen.coordinate_system.size.large" type="bool">false</key>
 		<key name="tizen.org/feature/screen.coordinate_system.size.normal" type="bool">true</key>
-		<key name="tizen.org/feature/screen.dpi" type="int">316</key>
-		<key name="tizen.org/feature/screen.height" type="int">1280</key>
+		<key name="tizen.org/feature/screen.dpi" type="int">518</key>
+		<key name="tizen.org/feature/screen.height" type="int">2560</key>
 		<key name="tizen.org/feature/screen.output.hdmi" type="bool">true</key>
 		<key name="tizen.org/feature/screen.output.rca" type="bool">false</key>
 		<key name="tizen.org/feature/screen.size.all" type="bool">true</key>
@@ -127,7 +127,7 @@
 		<key name="tizen.org/feature/screen.size.normal.1080.1920" type="bool">false</key>
 		<key name="tizen.org/feature/screen.shape.circle" type="bool">false</key>
 		<key name="tizen.org/feature/screen.shape.rectangle" type="bool">true</key>
-		<key name="tizen.org/feature/screen.width" type="int">720</key>
+		<key name="tizen.org/feature/screen.width" type="int">1440</key>
 		<key name="tizen.org/feature/sensor.accelerometer" type="bool">false</key>
 		<key name="tizen.org/feature/sensor.accelerometer.wakeup" type="bool">false</key>
 		<key name="tizen.org/feature/sensor.activity_recognition" type="bool">false</key>
